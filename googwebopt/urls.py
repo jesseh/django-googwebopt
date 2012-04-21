@@ -1,5 +1,5 @@
 from django.conf.urls.defaults import *
-from gwo.models import GwoExperiment
+from googwebopt.models import GwoExperiment
 
 
 urlpatterns = patterns('',
